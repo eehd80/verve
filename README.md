@@ -1,12 +1,12 @@
 # list
 
-https://oodada.github.io/verve/!list.html
+https://odada.me/verve/!list.html
 
 https://github.com/miu1120e/verve/settings/pages
 
 ## main
 
-https://oodada.github.io/verve/
+https://odada.me/verve/
 
 ## bbs-list
 
